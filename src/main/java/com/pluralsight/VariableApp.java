@@ -38,6 +38,11 @@ public class VariableApp {
         // print out price
         System.out.println("The price of cofee is " + 4.99);
 
+        //Write Favorite letter
+        String favoriteLetter = "All things work together.";
+        //print out letter
+        System.out.println(favoriteLetter);
+
 
 
     }
