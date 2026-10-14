@@ -33,6 +33,11 @@ public class VariableApp {
         //print out screen
         System.out.println("The number of days in a week is " + 7);
 
+        //Declare price of coffee
+        double priceCofee = 4.99;
+        // print out price
+        System.out.println("The price of cofee is " + 4.99);
+
 
 
     }
