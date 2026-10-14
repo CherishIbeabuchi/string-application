@@ -18,18 +18,14 @@ public class VariableApp {
         // print out to the screen
         System.out.println("My middle name starts from " + middleName);
 
-        //4.
-        String pets = "yes/no";
+        //4.Declare if i have pets
+        String pets = "no";
+        //print out to screen
+        System.out.println("I dont have pets in this class: " + pets);
+
+        //
         String saying = "Thank you";
 
-        System.out.println(favoriteColor);
-        System.out.println(year);
-        System.out.println(middleName);
-        System.out.println(pets);
-        System.out.println(saying);
 
-
-
-    }
 }
 
