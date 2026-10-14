@@ -43,6 +43,10 @@ public class VariableApp {
         //print out letter
         System.out.println(favoriteLetter);
 
+        //Declare if it's raining or not
+        String rain = "false";
+        //Print out on screen
+        System.out.println(rain);
 
 
     }
