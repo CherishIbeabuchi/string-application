@@ -28,6 +28,12 @@ public class VariableApp {
         // Print out to the screen
         System.out.println(saying);
 
+        //Declare number of days in a week
+        int daysInweek = 7;
+        //print out screen
+        System.out.println("The number of days in a week is " + 7);
+
+
 
     }
 }
