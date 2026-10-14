@@ -6,7 +6,12 @@ public class VariableApp {
         //declare and initialoze a variable for my favorite color
         String favoriteColor = "red";
         //print out a short sentence for the variable
-        System.out.println("My favorite color is: " + favoriteColor);
+        System.out.println("My favorite color is " + favoriteColor);
+
+        //2. create a variable for the year I started this class
+        int year = 2026;
+        //print out to the screen
+        System.out.println("The year i started this class was:" + year);
 
         char middleName = 'T';
         String pets = "yes/no";
