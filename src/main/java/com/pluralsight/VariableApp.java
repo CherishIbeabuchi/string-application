@@ -13,7 +13,12 @@ public class VariableApp {
         //print out to the screen
         System.out.println("The year i started this class was:" + year);
 
+        //3. Typing my middle name
         char middleName = 'T';
+        // print out to the screen
+        System.out.println("My middle name starts from " + middleName);
+
+        //4.
         String pets = "yes/no";
         String saying = "Thank you";
 
