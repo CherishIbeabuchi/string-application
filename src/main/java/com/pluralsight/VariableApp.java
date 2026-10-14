@@ -13,7 +13,7 @@ public class VariableApp {
         //print out to the screen
         System.out.println("The year i started this class was:" + year);
 
-        //3. Typing my middle name
+        //3. Declaring my middle name
         char middleName = 'T';
         // print out to the screen
         System.out.println("My middle name starts from " + middleName);
@@ -23,9 +23,12 @@ public class VariableApp {
         //print out to screen
         System.out.println("I dont have pets in this class: " + pets);
 
-        //
+        // Declaring a nice message
         String saying = "Thank you";
+        // Print out to the screen
+        System.out.println(saying);
 
 
+    }
 }
 
