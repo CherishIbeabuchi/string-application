@@ -39,10 +39,14 @@ public class VariableApp {
         System.out.println("The price of cofee is " + 4.99);
 
         //Write Favorite letter
-        String favoriteLetter = "All things work together.";
+        char favoriteLetter = 'C';
         //print out letter
         System.out.println(favoriteLetter);
 
+        //Declare if it's raining or not
+        String rain = "false";
+        //Print out on screen
+        System.out.println(rain);
 
 
     }
